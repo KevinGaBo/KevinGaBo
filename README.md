@@ -1,5 +1,5 @@
-### Hola, soy Kevin Boriosi 👋
-
+<h1 aling="center"> Hola, soy Kevin Boriosi 👋 </h1>
+<img src="https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png">
 <!--
 **KevinGaBo/KevinGaBo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
