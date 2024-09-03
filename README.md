@@ -20,7 +20,7 @@
 
 Estos son algunos de los proyectos que deberias echarle un ojo:
 
-- **[Nombre del Proyecto 1](enlace_a_proyecto1)**: Breve descripción del proyecto.
+- **[To-Do List](https://github.com/KevinGaBo/ToDo-List-Kevin)**: Sencilla ToDo list.
 - **[Second-Counter](https://github.com/KevinGaBo/Seconds-counter)**: Un contador de segundos. En breve implementara botones para parar, continuar y mas cosillas.
 - **[Traffic-Light](https://github.com/KevinGaBo/Traffic-Light)**: Proyecto sencillo donde clickeas en la luz que quieres cambiar. En breves añadire para que cambien automaticamente.
 
