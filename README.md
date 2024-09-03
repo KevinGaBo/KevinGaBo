@@ -1,7 +1,7 @@
 <h1 aling="center"> Hola, soy Kevin Boriosi 👋 </h1>
 # Hola, soy Kevin GaBo 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy **Kevin Gabriel Boriosi**, un desarrollador de software full-stack con experiencia en HTML, CSS, JavaScript, React, flask, Angular, Bootstrap, Python, API Rest, MySQL, etc. Aquí encontrarás una colección de mis proyectos personales y colaborativos.
+¡Bienvenido a mi perfil de GitHub! Soy **Kevin Gabriel Boriosi**, un desarrollador web full-stack con experiencia en HTML, CSS, JavaScript, React, flask, Angular, Bootstrap, Python, API Rest, MySQL, etc. Aquí encontrarás una colección de mis proyectos personales y colaborativos.
 
 ## 🌟 Sobre Mí
 
@@ -38,6 +38,7 @@ Estoy siempre abierto a nuevas oportunidades y colaboraciones. Puedes contactarm
 
 - **Email**: [kevin.boriosi@gmail.com](mailto:kevin.boriosi@gmail.com)
 - **LinkedIn**: [Kevin Boriosi](https://www.linkedin.com/in/kevin-boriosi-61261126b/)
+- **Telefono**: (+34)642680355
 
 [//]: # (📚 Recursos Adicionales)
 [//]: # (## 📁 Portafolio)
