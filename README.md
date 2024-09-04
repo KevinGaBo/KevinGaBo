@@ -20,9 +20,9 @@
 
 Estos son algunos de los proyectos que deberias echarle un ojo:
 
-- **[To-Do List](https://github.com/KevinGaBo/ToDo-List-Kevin)**: Sencilla ToDo list.
+- **[Star-Wars](https://github.com/KevinGaBo/Star-Wars)**: Proyecto con API externa, llamados y visualizacion correcta de personajes, planetas y vehiculos de StarWars.
 - **[Second-Counter](https://github.com/KevinGaBo/Seconds-counter)**: Un contador de segundos. En breve implementara botones para parar, continuar y mas cosillas.
-- **[Traffic-Light](https://github.com/KevinGaBo/Traffic-Light)**: Proyecto sencillo donde clickeas en la luz que quieres cambiar. En breves añadire para que cambien automaticamente.
+- **[To-Do List](https://github.com/KevinGaBo/ToDo-List-Kevin)**: Sencilla lista ToDo.
 
 Puedes explorar más de mis proyectos en la sección de [repositorios](https://github.com/KevinGaBo?tab=repositories).
 
